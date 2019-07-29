@@ -30,7 +30,12 @@ public class Dictionary {
             "passwords",
             "surnames",
             "male_names",
-            "female_names"
+            "female_names",
+            "wordfreq-de",
+            "wordfreq-es",
+            "wordfreq-fr",
+            "wordfreq-it",
+            "wordfreq-pt"
     };
 
     public static final Map<String, String[]> FREQUENCY_LISTS;
